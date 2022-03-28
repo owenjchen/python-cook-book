@@ -1,4 +1,4 @@
-# python-cook-book
+# Python Cook Book
 Cook Books for Python programming tips and tricks.
 
 This repo contains some intermediate and advanced Python programming tips and tricks encountered randomly by Owen.
