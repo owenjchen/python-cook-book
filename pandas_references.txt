@@ -1,0 +1,22 @@
+Pandas Docs
+
+https://pandas.pydata.org/docs/user_guide/index.html
+https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html
+
+
+https://www.kaggle.com/learn/pandas
+
+
+https://sparkbyexamples.com/pandas/iterate-over-rows-in-pandas-dataframe/
+
+https://thispointer.com/data-analysis-in-python-using-pandas/
+
+https://datatofish.com/sql-to-pandas-dataframe/
+
+
+https://sqlzoo.net/wiki/SQL_Tutorial
+
+
+Iterate Pandas rows:
+https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
